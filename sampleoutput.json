@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "ICYMI: A look back at Sunday's 60 Minutes",
+            "description": "This week on 60 Minutes: NASA's Webb telescope captures stunning images. Then, sportswashing accusations in Saudi Arabia. And, Notre Dame restoration efforts continue.",
+            "url": "https://www.cbsnews.com/news/icymi-60-minutes-webb-telescope-saudi-arabia-sportswashing-notre-dame-cathedral-2023-04-10/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/09/50c0ac34-5a0a-4bd5-a50d-963c37427765/thumbnail/1200x630/ae5c8e488af47ddb4dc5d4e69094c0af/carina-nebula.jpg",
+            "publishedAt": "2023-04-10T17:04:18+00:00",
+            "content": "First published on April 10, 2023 / 1:04 PM\r\n© 2023 CBS Interactive Inc. All Rights Reserved."
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Listen: IPL - Royal Challengers Bangalore v Lucknow Super Giants",
+            "description": "Listen to BBC Radio 5 Sports Extra commentary as Royal Challengers Bangalore face Lucknow Super Giants in the 2023 Indian Premier League.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/65174988",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-04-10T14:52:22.7972683Z",
+            "content": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. Its the law.\r\nFind out more"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Kings&#x27; Beam Under Attack ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/415140-light-the-beam--hero-ball",
+            "urlToImage": null,
+            "publishedAt": "2023-04-03T14:52:21.1065694Z",
+            "content": "LIGHT the BEAM | Hero Ball"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        }
+    ]
+}
